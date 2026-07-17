@@ -9,7 +9,7 @@
         "Pinturas": { "Pintura Primaria": 14000, "Pintura Secundaria": 24000, "Cromado": 120000, "Perolado": 24000, "Decalque": 26000 },
         "Rodas": { "Roda": 62000, "Cor da Roda": 32000, "Custom Roda": 28000, "Fumaça de Pneu": 28000 },
         "Iluminação": { "Neon": 80000, "Xênon": 80000 },
-        "Interior": { "Bancos": 22000, "Painel": 24000, "Ponteiros": 24000, "Enfeites": 24000, "Janela": 22000, "Buzina": 18000, "Placa": 18000 },
+        "Interior": { "Bancos": 22000, "Painel": 24000, "Ponteiros": 24000, "Enfeites": 24000, "Janela": 22000, "insulfilm": 15000, "Buzina": 18000, "Placa": 18000 },
         "Partes Externas": { "Aerofólio": 26000, "Para-Choque Dianteiro": 26000, "Para-Choque Traseiro": 26000, "Saias Laterais": 26000, "Escapamento": 26000, "Capa do Farol": 26000, "Portas": 26000, "Gaiola": 26000, "Grelha": 26000, "Capô": 26000, "Para-Lama": 24000, "Teto": 24000 }
     };
 
